@@ -2,7 +2,6 @@ package com.kevin.mockito.samples.utils;
 
 import static org.junit.Assert.assertEquals;
 
-import java.util.LinkedHashMap;
 import java.util.UUID;
 import org.junit.Test;
 import org.junit.jupiter.api.DisplayName;
